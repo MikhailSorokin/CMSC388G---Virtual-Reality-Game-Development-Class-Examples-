@@ -30,7 +30,7 @@ Replace the first argument with your engine path, second argument with your proj
 
 It should only pop up with one local ip number, use that one.
 
-4) On the other one, press ` on your keyboard and type in "Join <IP Address>"
+4) On the other one, press ` on your keyboard and type in ```Join <IP Address>```
 
 
 
